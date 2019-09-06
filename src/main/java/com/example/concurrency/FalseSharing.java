@@ -3,7 +3,7 @@ package com.example.concurrency;
 import java.util.Arrays;
 
 /**
- * Preview of False Sharing draw back resulting from the construction of the modern CPU.
+ * Preview of False Sharing drawback resulting from the construction of the modern CPU.
  * Dirty marking on L1 cache as an example.
  */
 public class FalseSharing {
