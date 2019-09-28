@@ -1,4 +1,4 @@
-package com.example.concurrency;
+package com.example.concurrency.falsesharing;
 
 import java.util.Arrays;
 
